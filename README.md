@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on @ZupIT<br>🌱 I’m currently learning Microfrontend and tests<br>💬 Ask me about Star Wars, JavaScript and TypeScript<br>⚡ Fun fact, I do not drink coffee
+🔭 I’m currently working on [Zup](https://github.com/ZupIT)<br>🌱 I’m currently learning Microfrontend and tests<br>💬 Ask me about Star Wars, JavaScript and TypeScript<br>⚡ Fun fact, I do not drink coffee
 
 
 ## 🌐 Socials:
